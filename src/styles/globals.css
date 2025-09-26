@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Optional: your global overrides */
+body {
+  @apply bg-blue-900 text-white;
+  font-family: Arial, sans-serif;
+}

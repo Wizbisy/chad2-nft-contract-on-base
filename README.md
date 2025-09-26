@@ -1,2 +1,2 @@
-# chad2-nft-contract-on-base
-Chad2 Nft contract  on base website utilizing walletconnectV3-reown
+# BaseChads--Nft-on-base
+a Chad Nft deployed on base🔥
