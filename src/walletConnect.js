@@ -9,7 +9,7 @@ if (!projectId) {
 }
 
 const wagmiAdapter = new WagmiAdapter({
-  networks: [base], // Base chain
+  networks: [base, celo], // Base chain
   projectId,
 });
 
